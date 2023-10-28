@@ -39,7 +39,7 @@ printf("invalid choice\n");
 }
 }
 }
-while(choice!=5);
+while(choice!=4);
 }
 void enqueue()
 {
